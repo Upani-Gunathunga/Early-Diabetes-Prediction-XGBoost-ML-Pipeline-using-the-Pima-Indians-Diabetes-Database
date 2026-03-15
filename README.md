@@ -272,10 +272,3 @@ No dataset download needed — the script loads directly from a public URL.
 - Andrew Ng, Machine Learning Specialization — Coursera (Courses 1 & 2)
 - XGBoost: Chen & Guestrin, 2016
 
----
-
-## 👤 Author
-
-**Upani Gunathunga**  
-Undergraduate | Embedded Systems & Machine Learning  
-[GitHub](https://github.com/Upani-Gunathunga)
